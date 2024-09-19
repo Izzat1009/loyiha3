@@ -1,0 +1,1 @@
+# bu loyiha git hubga joylash uchun
