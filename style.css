@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-style: normal;
+}
+header{
+    margin: 0px 135px;
+}
+header nav ul{
+    display: inline-block;
+    margin: 0px 135px 30px ;
+
+    
+}
+
+header nav ul li{
+    display: inline-block;
+    margin-top: 100px;
+    margin-right: 10px;
+    margin: 40px;
+}
+header nav ul li a{
+    padding-bottom: 40px;
+    color: black
+    
+    
+    
+
+}
+header .logo{
+margin-bottom: -40px;
+
+
+    
+}
+
+
+
+
+header nav button{
+ color: #ffffff;
+ font-size: 14px;
+ font-weight: 500;
+ padding: 12px 24px;
+ border-radius: 6px;border: none;
+ background-color: #0a0357;
+}
+header .logo{
+    font-family: "DM Sans", sans-serif;
+}
